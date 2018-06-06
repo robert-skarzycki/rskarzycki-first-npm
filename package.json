@@ -1,0 +1,9 @@
+{
+  "name": "rskarzycki-first-npm",
+  "version": "0.1.0",
+  "description": "Robert Skarżycki's first npm package",
+  "main": "dist/index.js",
+  "repository": "https://github.com/robert-skarzycki/rskarzycki-first-npm.git",
+  "author": "Robert Skarżycki <3417357+robert-skarzycki@users.noreply.github.com>",
+  "license": "MIT"
+}
