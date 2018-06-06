@@ -1,7 +1,10 @@
+const format = require('format')
+
 exports.myFunc = function () {
     console.log('Hejka, i.e. hello world!')
 }
 
 exports.myFunc2 = function () {
-    console.log('func2')
+    const msg = format.printf("%s world", 'hellooo')
+    console.log(msg)
 }
